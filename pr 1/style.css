@@ -1,0 +1,30 @@
+body{
+    background-color: lightgray;
+}
+
+/* Sidebar */
+.menu{
+    height: 100vh;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+/* Sidebar Links */
+.menu a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin-top: 15px;
+}
+
+/* Main Content */
+.content{
+    padding: 20px;
+}
+
+/* Cards */
+.box{
+    padding: 20px;
+    border-radius: 10px;
+}
